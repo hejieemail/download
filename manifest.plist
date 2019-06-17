@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://xiazai.game237.com/qyqmj0610-succeed.ipa</string>
+				</dict>
+				</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>game71.net.qyq</string>
+				<key>bundle-version</key>
+				<string>3.5.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>棋弈圈</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
